@@ -9,7 +9,7 @@
         "version": "0.8.0",
         "settings": {
           "optimizer": {
-            "enabled": true,
+            "enabled": false,
             "runs": 200
           },
           "outputSelection": {
@@ -48,7 +48,7 @@
         "version": "0.8.0",
         "settings": {
           "optimizer": {
-            "enabled": true,
+            "enabled": false,
             "runs": 200
           },
           "outputSelection": {
@@ -85,7 +85,7 @@
         "version": "0.8.0",
         "settings": {
           "optimizer": {
-            "enabled": true,
+            "enabled": false,
             "runs": 200
           },
           "outputSelection": {
@@ -120,7 +120,7 @@
         "version": "0.8.0",
         "settings": {
           "optimizer": {
-            "enabled": true,
+            "enabled": false,
             "runs": 200
           },
           "outputSelection": {
@@ -157,7 +157,7 @@
         "version": "0.8.0",
         "settings": {
           "optimizer": {
-            "enabled": true,
+            "enabled": false,
             "runs": 200
           },
           "outputSelection": {
@@ -185,14 +185,14 @@
       ]
     },
     "/Users/leonnguyen/Code/BAP/create_token/claim_token/contracts/Token.sol": {
-      "lastModificationDate": 1652862118131,
-      "contentHash": "fcd45b6123be22fdd4ad221acbf06c8f",
+      "lastModificationDate": 1652864035150,
+      "contentHash": "87a316b9aa1c5805bb7483ced512e197",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {
         "version": "0.8.0",
         "settings": {
           "optimizer": {
-            "enabled": true,
+            "enabled": false,
             "runs": 200
           },
           "outputSelection": {
@@ -219,7 +219,7 @@
         "^0.8.0"
       ],
       "artifacts": [
-        "BEP20"
+        "QKCToken"
       ]
     }
   }
